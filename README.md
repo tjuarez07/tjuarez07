@@ -21,7 +21,7 @@ All work here was done in isolated lab environments to demonstrate practical sec
 | Project | Description | Link |
 |----------|--------------|------|
 | 🧩 **Wireshark Traffic Analysis** | Capture and analyze network packets (HTTP, HTTPS, DNS). Identify protocols, sessions, and traffic patterns. | [View Project »](./wireshark/README.md) |
-| 🌐 **Nmap Scanning Lab** | Safe, authorized scanning for open ports, OS detection, and service enumeration in a test lab. | [View Project »](./nmap/README.md) |
+| 🌐 **Nmap Scanning Lab** | Safe, authorized scanning for open ports, OS detection. | [View Project »](./nmap/README.md) |
 | 🖧 **Cisco Packet Tracer Home Lab** | Build a small-tiered network topology, configure VLANs, routers, and generate a MAC address table. | [View Project »](./packettracer/README.md) |
 | ⚙️ **Systems Administrator Setup** | Create and verify new administrator accounts on Windows & Linux using secure best practices. | [View Project »](./sysadmin/README.md) |
 | 📊 **SolarWinds Network Monitoring** | Configure and interpret SolarWinds dashboards, alerts, and performance metrics. | [View Project »](./solarwinds/README.md) |
